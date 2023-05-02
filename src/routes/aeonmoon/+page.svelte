@@ -20,7 +20,7 @@
 			<div class="text-xl" />
 			<ul class="list-disc text-xl">
 				<li class="underline text-blue-600 hover:text-blue-800 visited:text-purple-600">
-					<a href="https://malcute.aeonmoon.page/">Check it out here!</a>
+					<a href="https://github.com/LastAeon77/ProjectMoonWebsite">Check it out here!</a>
 				</li>
 			</ul>
 		</div>
