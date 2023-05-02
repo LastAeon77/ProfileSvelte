@@ -6,7 +6,7 @@
 				<div class="basis-2/5">
 					<div class="text-4xl">Kamontat Swasdikulavath</div>
 					<ul class="text-xl list-disc">
-						<li>Email: kswasdikulavath23@my.whitworth.edu</li>
+						<li>Email: kamontat.swasdikulavath@gmail.com</li>
 						<li>Github: https://github.com/LastAeon77</li>
 						<li>Major: BS Bioinformatics</li>
 						<li>Linkedin: https://www.linkedin.com/in/kamontat-swasdikulavath/</li>
