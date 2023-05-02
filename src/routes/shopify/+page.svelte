@@ -1,9 +1,11 @@
 <script lang="ts">
 	import ProjectPage from '$lib/ProjectPage.svelte';
 	const description = [
-		'Assigned with implementing GraphQL backend features on Shopify backend with Agile methodology.',
-		'Used Ruby and Typescript to analyze and refactor codes. Created features with tests, adding instrumentation for performance and updating delivery calculations API and algorithm. Researched Shopify’s Database with SQL to see on-site traffic during Black Friday for performance projections.',
-		'Successfully merged 14+ working production pull requests and completed 4 research tasks.'
+		"Created 15+ GraphQL backend features on Shopify platform using Agile methodology, improving performance and functionality.",
+		"Assembled new features and test automation using Ruby and Typescript, updating delivery calculations API and algorithm, resulting in an increase in delivery time precision.",
+		"Added instrumentation for performance measurement for up to 6 different API flows.",
+		"Executed 5 different Black Friday performance projections by analyzing Shopify's database with SQL, resulting in successful preparation for the busiest shopping day of the year.",
+		"Successfully merged 14+ working production pull requests, ensuring timely delivery of features and bug fixes.",
 	];
 </script>
 

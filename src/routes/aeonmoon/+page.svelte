@@ -1,10 +1,10 @@
 <script lang="ts">
 	import ProjectPage from '$lib/ProjectPage.svelte';
 	const description = [
-		'Created website to display Library Of Ruina data, allow users to create decks, and send data through API.',
-		'Read data from in-game files into PostgreSQL database. Send out data through the Django Framework to an API page. Added user authentication features to allow users to login, logout, and create their own decks.',
-		'Deployed PostgreSQL, Backend service, Nginx, and Next.js service together in a docker.',
-		'Actively used by over 50 registered users and bots.'
+		"Actively used by over 350+ registered users, more than 90+ decks generated.",
+		"Developed a SaaS website to display “Library Of Ruina” data, allowing users to create over 90 decks and see game data.",
+		"Parsed data from in-game files into PostgreSQL database. Relayed out data through the Django Framework to an API page. Added user authentication features to allow users to login, logout, and create decks.",
+		"Installed PostgreSQL, backend Django service, Nginx, and frontend React.js service together in a docker.",
 	];
 </script>
 
